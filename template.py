@@ -12,6 +12,7 @@ list_of_files = [
     'app.py',
     '.env',
     'Dockerfile',
+    'api.py',
     'github/workflows/.gitkeep'
 ]
 
