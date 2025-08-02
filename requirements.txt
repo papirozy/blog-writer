@@ -1,0 +1,10 @@
+openai
+flask
+langchain
+beautifulsoup4
+scrapy
+streamlit
+python-dotenv
+langchain-groq
+langchain_openai
+langchain_community
